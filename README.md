@@ -1,5 +1,5 @@
 # Census2020
-In this tutorial we walk through an example of using jupyter notebooks and pandas to create a bar chart race for the US census data from the past 230 years. 
+In this tutorial we walk through an example of using jupyter notebooks and pandas to create a bar chart race for the US census data from the past 230 years. The result is available [here](https://public.flourish.studio/visualisation/1322083/)!
 
 If you already know how to run jupyter notebooks and how to install python packages, you can go straight to the notebook with:
 
